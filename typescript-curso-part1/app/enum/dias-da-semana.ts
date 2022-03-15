@@ -1,4 +1,4 @@
-enum DiasDaSemana {
+export enum DiasDaSemana {
     DOMINGO,
     SEGUNDA,
     TERCA,
